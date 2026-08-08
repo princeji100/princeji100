@@ -1,8 +1,8 @@
 <div align="center">
 
-<!-- ANIMATED TYPING HEADER — no static image dependency, works immediately -->
+<!-- ANIMATED TYPING HEADER — demolab is the maintained host; the old herokuapp domain is deprecated -->
 <a href="https://princeji.com">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Hey+%F0%9F%91%8B+I'm+Prince+Ji;full-stack+dev+%C2%B7+saas+builder+%C2%B7+india" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Hey+%F0%9F%91%8B+I'm+Prince+Ji;full-stack+dev+%C2%B7+saas+builder+%C2%B7+india" alt="Typing SVG" />
 </a>
 
 <!-- CUSTOM BANNER -->
@@ -54,20 +54,12 @@ const prince = {
 
 ## `> ls projects/`
 
-<div align="center">
+<!-- Plain links, not pin cards — the cards duplicated these descriptions and broke whenever
+     github-readme-stats hit its rate limit. Text can't 503. -->
 
-<a href="https://github.com/princeji100/Tmdb">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=princeji100&repo=Tmdb&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-<a href="https://github.com/princeji100/projects">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=princeji100&repo=projects&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
+**[Tmdb](https://github.com/princeji100/Tmdb)** — Movie discovery app with search, smooth page transitions, and responsive design. React + Tailwind + Framer Motion + TMDB API.
 
-</div>
-
-> **Tmdb** — Movie discovery app with search, smooth page transitions, and responsive design. React + Tailwind + Framer Motion + TMDB API.
->
-> **projects** — Frontend collection: portfolio site, linktree clone, easybank landing, mortgage calculator, and more.
+**[projects](https://github.com/princeji100/projects)** — Frontend collection: portfolio site, linktree clone, easybank landing, mortgage calculator, and more.
 
 <!-- ═══════════════════════════════════════════════ -->
 
@@ -75,12 +67,13 @@ const prince = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=princeji100&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=princeji100&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+<!-- The github-readme-stats summary card used to sit here but its public instance is
+     permanently rate-limited (503). To bring it back, deploy your own instance:
+     https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance
+     then point the src at <your-instance>/api?username=princeji100 -->
 
-<br/><br/>
-
-<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=princeji100&theme=tokyo-night&hide_border=true&radius=10&area=true" alt="Activity Graph" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=princeji100&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=princeji100&theme=tokyo-night&hide_border=true&radius=10&area=true" alt="Activity Graph" />
 
 </div>
 
@@ -102,9 +95,8 @@ const prince = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=princeji100&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10" alt="Trophies" />
-
-<br/><br/>
+<!-- Trophy row removed: github-profile-trophy.vercel.app returns 402 (Vercel plan quota
+     exceeded on the shared instance). Self-host to restore. -->
 
 **Open to collabs — if you're building something interesting, let's talk.**
 

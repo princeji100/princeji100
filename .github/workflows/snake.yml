@@ -5,10 +5,9 @@ name: Generate Snake
 on:
   schedule:
     - cron: "0 0 * * *" # every day at midnight
-  workflow_dispatch:
-  push:
-    branches:
-      - main
+  workflow_dispatch: # manual run when you want it refreshed now
+  # No push trigger: the snake only reflects the contribution graph, which a README
+  # edit can't change. Daily cron covers it; use workflow_dispatch for on-demand.
 
 jobs:
   generate:
