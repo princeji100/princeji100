@@ -57,9 +57,9 @@ const prince = {
 <!-- Plain links, not pin cards — the cards duplicated these descriptions and broke whenever
      github-readme-stats hit its rate limit. Text can't 503. -->
 
-**[Tmdb](https://github.com/princeji100/Tmdb)** — Movie discovery app with search, smooth page transitions, and responsive design. React + Tailwind + Framer Motion + TMDB API.
+**[Tmdb](https://github.com/princeji100/Tmdb)** — Movie discovery app with search, smooth page transitions, and responsive design. React + Tailwind + Framer Motion + TMDB API. · [Live](https://tmdb-vert-delta.vercel.app)
 
-**[projects](https://github.com/princeji100/projects)** — Frontend collection: portfolio site, linktree clone, easybank landing, mortgage calculator, and more.
+**[projects](https://github.com/princeji100/projects)** — 11 frontend builds: portfolio site, linktree clone, easybank landing, mortgage calculator, React Native movie app, and more. [Full index with live demos →](https://github.com/princeji100/projects#builds)
 
 <!-- ═══════════════════════════════════════════════ -->
 
