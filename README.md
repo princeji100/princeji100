@@ -55,10 +55,10 @@ const prince = {
 
 ## `> ./featured`
 
-🚀 **[GhostCreator](https://github.com/princeji100/GhostCreator)** — AI-powered YouTube Shorts automation platform  
+🚀 **GhostCreator** — AI-powered YouTube Shorts automation platform  
 → Generates scripts, voiceovers, visuals and publishes videos automatically.  
 → Next.js + TypeScript + Supabase + AI APIs  
-→ [Live Demo](#) · [Source Code](https://github.com/princeji100/GhostCreator)
+→ 🚧 *Currently in active development (Private SaaS)*
 
 🎬 **[Tmdb](https://github.com/princeji100/Tmdb)** — Movie discovery application  
 → Search, discover and explore movies using TMDB API.  
