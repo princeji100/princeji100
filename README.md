@@ -26,8 +26,10 @@
 ```js
 const prince = {
   location: "India",
-  focus: ["SaaS Products", "AI Automation", "Full-Stack Web Apps"],
-  currentlyBuilding: "A platform that auto-generates & publishes YouTube Shorts",
+  focus: ["SaaS", "AI Automation", "Full-Stack Web Apps"],
+  currentlyBuilding: "AI-powered automation products",
+  stack: ["Next.js", "React", "TypeScript", "Node.js", "Python"],
+  openTo: ["Freelance", "Remote", "Interesting Projects"],
   funFact: "I automate things so hard that even my automation has automation",
 };
 ```
@@ -43,22 +45,29 @@ const prince = {
 
 <p align="center">
 
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,js,ts,python,fastapi,tailwind,html,css,nodejs,vite,framer&theme=dark&titles=true)](https://princeji.com)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,ts,python,nodejs,tailwind,postgres&theme=dark&titles=true)](https://princeji.com)
 
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=postgresql,supabase,redis,docker,celery,ffmpeg,git,github,githubactions,vercel,bash,linux&theme=dark&titles=true)](https://princeji.com)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=supabase,redis,docker,git,github,linux&theme=dark&titles=true)](https://princeji.com)
 
 </p>
 
 <!-- ═══════════════════════════════════════════════ -->
 
-## `> ls projects/`
+## `> ./featured`
 
-<!-- Plain links, not pin cards — the cards duplicated these descriptions and broke whenever
-     github-readme-stats hit its rate limit. Text can't 503. -->
+🚀 **[GhostCreator](https://github.com/princeji100/GhostCreator)** — AI-powered YouTube Shorts automation platform  
+→ Generates scripts, voiceovers, visuals and publishes videos automatically.  
+→ Next.js + TypeScript + Supabase + AI APIs  
+→ [Live Demo](#) · [Source Code](https://github.com/princeji100/GhostCreator)
 
-**[Tmdb](https://github.com/princeji100/Tmdb)** — Movie discovery app with search, smooth page transitions, and responsive design. React + Tailwind + Framer Motion + TMDB API. · [Live](https://tmdb-vert-delta.vercel.app)
+🎬 **[Tmdb](https://github.com/princeji100/Tmdb)** — Movie discovery application  
+→ Search, discover and explore movies using TMDB API.  
+→ React + Tailwind + Framer Motion  
+→ [Live Demo](https://tmdb-vert-delta.vercel.app) · [Source Code](https://github.com/princeji100/Tmdb)
 
-**[projects](https://github.com/princeji100/projects)** — 11 frontend builds: portfolio site, linktree clone, easybank landing, mortgage calculator, React Native movie app, and more. [Full index with live demos →](https://github.com/princeji100/projects#builds)
+🧰 **[projects](https://github.com/princeji100/projects)** — 11 frontend builds  
+→ Portfolio, Linktree clone, EasyBank landing page, mortgage calculator, and more.  
+→ [Explore full index with live demos →](https://github.com/princeji100/projects#builds)
 
 <!-- ═══════════════════════════════════════════════ -->
 
