@@ -2,7 +2,7 @@
 
 <!-- CUSTOM BANNER -->
 <a href="https://princeji.com">
-  <img src="./assets/banner.png" width="100%" alt="Prince Ji" />
+  <img src="./assets/banner.png?v=2" width="100%" alt="Prince Ji" />
 </a>
 
 <br/>
