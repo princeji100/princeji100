@@ -1,24 +1,23 @@
 <div align="center">
 
-<!-- ANIMATED TYPING HEADER — demolab is the maintained host; the old herokuapp domain is deprecated -->
-<a href="https://princeji.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Hey+%F0%9F%91%8B+I'm+Prince+Ji;full-stack+dev+%C2%B7+saas+builder+%C2%B7+india" alt="Typing SVG" />
-</a>
-
 <!-- CUSTOM BANNER -->
 <a href="https://princeji.com">
-  <img src="./assets/banner.png" width="200" alt="Prince Ji" />
+  <img src="./assets/banner.png" width="100%" alt="Prince Ji" />
 </a>
 
 <br/>
 
-<!-- SOCIAL BADGES — clean row, not floating randomly -->
+<!-- SOCIAL BADGES -->
 <a href="mailto:hello@princeji.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/princeji"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
 <a href="https://princeji.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>&nbsp;
 <img src="https://komarev.com/ghpvc/?username=princeji100&style=for-the-badge&color=blueviolet" alt="Profile views"/>
 
 </div>
+
+<a href="https://github.com/princeji100">
+  <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="250" alt="Octocat" />
+</a>
 
 <!-- ═══════════════════════════════════════════════ -->
 
