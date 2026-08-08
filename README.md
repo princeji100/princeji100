@@ -7,7 +7,7 @@
 
 <!-- CUSTOM BANNER -->
 <a href="https://princeji.com">
-  <img src="./assets/banner.png" width="100%" alt="Prince Ji — Full-Stack Developer" />
+  <img src="./assets/banner.png" width="200" alt="Prince Ji" />
 </a>
 
 <br/>
