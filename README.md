@@ -15,8 +15,8 @@
 
 </div>
 
-<a href="https://github.com/princeji100">
-  <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="250" alt="Octocat" />
+<a href="https://princeji.com">
+  <img align="right" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="250" alt="Coding Animation" />
 </a>
 
 <!-- ═══════════════════════════════════════════════ -->
